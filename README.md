@@ -2,6 +2,4 @@
 MavenCounterWebApp
 Trigerring job by SCM polling Test
 github-webhook/
-hello
-
-yes
+hi this is for testing
